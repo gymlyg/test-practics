@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author":"gymlyg"
+      "X-Author":"gymlyg",
+      "Access-Control-Allow-Origin":"*"
     }
   }
 }
